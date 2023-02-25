@@ -26,4 +26,4 @@ sh det_train.sh 001_baseline
 ```bash
 sh det_test.sh 001_baseline
 ```
-Bbox will save to: `data/work_dirs/det/001_baseline/det_result_001_baseline.csv`
+Bbox will be saved to: `data/work_dirs/det/001_baseline/det_result_001_baseline.csv`
