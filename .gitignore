@@ -1,0 +1,9 @@
+work_dirs
+input
+data
+wandb
+__pycache__
+*.pyc
+*.ipynb
+detect
+*.png

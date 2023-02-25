@@ -1,0 +1,10 @@
+seaborn
+imgaug==0.4.0
+mmcls==0.24.1
+nibabel
+pylibjpeg
+python-gdcm
+pydicom==2.3.0
+wandb
+einops
+mmsegmentation==0.30.0
